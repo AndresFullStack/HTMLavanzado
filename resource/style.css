@@ -23,6 +23,12 @@
     width: 100%;
 }
 
+.img_container {
+    position: absolute;
+    top: 60px;
+    right: 60px;
+}
+
 .div_main {
     width: 50%;
 }
